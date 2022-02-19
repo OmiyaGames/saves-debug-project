@@ -1,0 +1,4 @@
+[submodule "Packages/omiya-games-saves"]
+	path = Packages/omiya-games-saves
+	url = git@github.com:OmiyaGames/omiya-games-saves.git
+	branch = develop
