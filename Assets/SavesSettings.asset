@@ -19,5 +19,6 @@ MonoBehaviour:
   versionSaver: {fileID: 11400000, guid: d30d98a3eda482919828531f43e18d57, type: 2}
   upgraders: []
   saveData:
-    serializedList: []
+    serializedList:
+    - {fileID: 11400000, guid: f461109ce187cc54f89f4471cffe81f1, type: 2}
     isSerializing: 1

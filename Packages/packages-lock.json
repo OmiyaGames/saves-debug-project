@@ -22,7 +22,7 @@
     },
     "com.omiyagames.global.settings": {
       "version": "1.0.1-pre.2",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.0",
