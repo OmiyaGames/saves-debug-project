@@ -21,5 +21,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b216422e1a8cc9a4eb6715deca412f49, type: 2}
   saveData:
     serializedList:
+    - {fileID: 11400000, guid: b070f5aedb6eb10439cc80ab6de62380, type: 2}
+    - {fileID: 0}
     - {fileID: 11400000, guid: f461109ce187cc54f89f4471cffe81f1, type: 2}
     isSerializing: 1
